@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeadsetConfigurator", "HeadsetConfigurator\HeadsetConfigurator.vcxproj", "{C13A5F3C-710D-45DD-87C1-3339AEBE0863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Debug|x64.ActiveCfg = Debug|x64
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Debug|x64.Build.0 = Debug|x64
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Debug|x86.ActiveCfg = Debug|Win32
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Debug|x86.Build.0 = Debug|Win32
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Release|x64.ActiveCfg = Release|x64
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Release|x64.Build.0 = Release|x64
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Release|x86.ActiveCfg = Release|Win32
+		{C13A5F3C-710D-45DD-87C1-3339AEBE0863}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548D64AA-A445-4154-87FD-15DAE994C35E}
+	EndGlobalSection
+EndGlobal
